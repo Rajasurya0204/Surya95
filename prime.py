@@ -5,7 +5,7 @@ if num > 1:
            print("no") 
            break
    else: 
-       print ("prime number") 
+       print ("yes") 
   
 else: 
-   print (" prime number")
+   print ("yes")
